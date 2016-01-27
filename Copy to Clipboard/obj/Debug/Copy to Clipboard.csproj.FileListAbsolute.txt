@@ -1,0 +1,9 @@
+c:\users\duc filan\documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\bin\Debug\Copy to Clipboard.exe.config
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\obj\Debug\Copy_to_Clipboard.Copy2Clipboard.resources
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\obj\Debug\Copy_to_Clipboard.Properties.Resources.resources
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\obj\Debug\Copy to Clipboard.csproj.GenerateResource.Cache
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\bin\Debug\Copy 2 Clipboard.exe.config
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\bin\Debug\Copy 2 Clipboard.exe
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\bin\Debug\Copy 2 Clipboard.pdb
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\obj\Debug\Copy 2 Clipboard.exe
+D:\DATA\Documents\visual studio 2013\Projects\Copy to Clipboard\Copy to Clipboard\obj\Debug\Copy 2 Clipboard.pdb
